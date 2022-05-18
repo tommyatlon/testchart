@@ -1,0 +1,496 @@
+{ "Marzo":
+    [
+       {
+        "data": "2022-03-01",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 44375,
+        "tamponi": 15244577,
+        "decessiTotali": 13047,
+        "decessiGiornaliero": 17
+       },
+       {
+        "data": "2022-03-02",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 43840,
+        "tamponi": 15274850,
+        "decessiTotali": 13066,
+        "decessiGiornaliero": 19
+       },
+       {
+        "data": "2022-03-03",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 43369,
+        "tamponi": 15302785,
+        "decessiTotali": 13073,
+        "decessiGiornaliero": 7
+       },
+       {
+        "data": "2022-03-04",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42871,
+        "tamponi": 15337089,
+        "decessiTotali": 13075,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-03-05",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42500,
+        "tamponi": 15369118,
+        "decessiTotali": 13079,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-03-06",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42568,
+        "tamponi": 15385269,
+        "decessiTotali": 13083,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-03-07",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42151,
+        "tamponi": 15408578,
+        "decessiTotali": 13092,
+        "decessiGiornaliero": 9
+       },
+       {
+        "data": "2022-03-08",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42107,
+        "tamponi": 15441913,
+        "decessiTotali": 13100,
+        "decessiGiornaliero": 8
+       },
+       {
+        "data": "2022-03-09",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42232,
+        "tamponi": 15468837,
+        "decessiTotali": 13109,
+        "decessiGiornaliero": 9
+       },
+       {
+        "data": "2022-03-10",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42730,
+        "tamponi": 15500340,
+        "decessiTotali": 13113,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-03-11",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 42930,
+        "tamponi": 15531018,
+        "decessiTotali": 13117,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-03-12",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 43039,
+        "tamponi": 15558814,
+        "decessiTotali": 13119,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-03-13",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 43334,
+        "tamponi": 15574686,
+        "decessiTotali": 13122,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-03-14",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 43483,
+        "tamponi": 15599229,
+        "decessiTotali": 13127,
+        "decessiGiornaliero": 5
+       },
+       {
+        "data": "2022-03-15",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 44373,
+        "tamponi": 15633080,
+        "decessiTotali": 13134,
+        "decessiGiornaliero": 7
+       },
+       {
+        "data": "2022-03-16",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 45445,
+        "tamponi": 15662522,
+        "decessiTotali": 13138,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-03-17",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 46540,
+        "tamponi": 15696276,
+        "decessiTotali": 13141,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-03-18",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 47207,
+        "tamponi": 15730060,
+        "decessiTotali": 13147,
+        "decessiGiornaliero": 6
+       },
+       {
+        "data": "2022-03-19",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 48014,
+        "tamponi": 15762333,
+        "decessiTotali": 13150,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-03-20",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 48577,
+        "tamponi": 15779692,
+        "decessiTotali": 13154,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-03-21",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 48738,
+        "tamponi": 15807729,
+        "decessiTotali": 13161,
+        "decessiGiornaliero": 7
+       },
+       {
+        "data": "2022-03-22",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 49327,
+        "tamponi": 15844145,
+        "decessiTotali": 13166,
+        "decessiGiornaliero": 5
+       },
+       {
+        "data": "2022-03-23",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 50034,
+        "tamponi": 15873102,
+        "decessiTotali": 13169,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-03-24",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 50843,
+        "tamponi": 15905410,
+        "decessiTotali": 13172,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-03-25",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 51017,
+        "tamponi": 15941768,
+        "decessiTotali": 13173,
+        "decessiGiornaliero": 1
+       },
+       {
+        "data": "2022-03-26",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 51036,
+        "tamponi": 15973428,
+        "decessiTotali": 13175,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-03-27",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 51256,
+        "tamponi": 15989453,
+        "decessiTotali": 13175,
+        "decessiGiornaliero": 0
+       },
+       {
+        "data": "2022-03-28",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 51073,
+        "tamponi": 16015290,
+        "decessiTotali": 13180,
+        "decessiGiornaliero": 5
+       },
+       {
+        "data": "2022-03-29",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 51666,
+        "tamponi": 16050411,
+        "decessiTotali": 13187,
+        "decessiGiornaliero": 7
+       },
+       {
+        "data": "2022-03-30",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 52347,
+        "tamponi": 16079819,
+        "decessiTotali": 13189,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-03-31",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 53137,
+        "tamponi": 16112979,
+        "decessiTotali": 13197,
+        "decessiGiornaliero": 8
+       },
+     ]
+
+  "Aprile" :
+     [
+       {
+        "data": "2022-04-01",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 53472,
+        "tamponi": 16145805,
+        "decessiTotali": 13200,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-04-02",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 53531,
+        "tamponi": 16179804,
+        "decessiTotali": 13205,
+        "decessiGiornaliero": 5
+       },
+       {
+        "data": "2022-04-03",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 53958,
+        "tamponi": 16197912,
+        "decessiTotali": 13206,
+        "decessiGiornaliero": 1
+       },
+       {
+        "data": "2022-04-04",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 53852,
+        "tamponi": 16224587,
+        "decessiTotali": 13208,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-04-05",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 54472,
+        "tamponi": 16256845,
+        "decessiTotali": 13216,
+        "decessiGiornaliero": 8
+       },
+       {
+        "data": "2022-04-06",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 55103,
+        "tamponi": 16284644,
+        "decessiTotali": 13221,
+        "decessiGiornaliero": 5
+       },
+       {
+        "data": "2022-04-07",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 55919,
+        "tamponi": 16313588,
+        "decessiTotali": 13224,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-04-08",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 56217,
+        "tamponi": 16345438,
+        "decessiTotali": 13233,
+        "decessiGiornaliero": 9
+       },
+       {
+        "data": "2022-04-09",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 56346,
+        "tamponi": 16378193,
+        "decessiTotali": 13241,
+        "decessiGiornaliero": 8
+       },
+       {
+        "data": "2022-04-10",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 56593,
+        "tamponi": 16395401,
+        "decessiTotali": 13244,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-04-11",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 56115,
+        "tamponi": 16422166,
+        "decessiTotali": 13246,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-04-12",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 56786,
+        "tamponi": 16454181,
+        "decessiTotali": 13250,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-04-13",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 57601,
+        "tamponi": 16481932,
+        "decessiTotali": 13256,
+        "decessiGiornaliero": 6
+       },
+       {
+        "data": "2022-04-14",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 58531,
+        "tamponi": 16512902,
+        "decessiTotali": 13258,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-04-15",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 58857,
+        "tamponi": 16543146,
+        "decessiTotali": 13262,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-04-16",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 59160,
+        "tamponi": 16574950,
+        "decessiTotali": 13264,
+        "decessiGiornaliero": 2
+       },
+       {
+        "data": "2022-04-17",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 59681,
+        "tamponi": 16591386,
+        "decessiTotali": 13264,
+        "decessiGiornaliero": 0
+       },
+       {
+        "data": "2022-04-18",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 59712,
+        "tamponi": 16601753,
+        "decessiTotali": 13264,
+        "decessiGiornaliero": 0
+       },
+       {
+        "data": "2022-04-19",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 59345,
+        "tamponi": 16626919,
+        "decessiTotali": 13267,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-04-20",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 60495,
+        "tamponi": 16661965,
+        "decessiTotali": 13278,
+        "decessiGiornaliero": 11
+       },
+       {
+        "data": "2022-04-21",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 61536,
+        "tamponi": 16682356,
+        "decessiTotali": 13281,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-04-22",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 62421,
+        "tamponi": 16717877,
+        "decessiTotali": 13287,
+        "decessiGiornaliero": 6
+       },
+       {
+        "data": "2022-04-23",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 62665,
+        "tamponi": 16757802,
+        "decessiTotali": 13288,
+        "decessiGiornaliero": 1
+       },
+       {
+        "data": "2022-04-24",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 63089,
+        "tamponi": 16779055,
+        "decessiTotali": 13292,
+        "decessiGiornaliero": 4
+       },
+       {
+        "data": "2022-04-25",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 63259,
+        "tamponi": 16790678,
+        "decessiTotali": 13292,
+        "decessiGiornaliero": 0
+       },
+       {
+        "data": "2022-04-26",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 63253,
+        "tamponi": 16805425,
+        "decessiTotali": 13295,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-04-27",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 63174,
+        "tamponi": 16847530,
+        "decessiTotali": 13302,
+        "decessiGiornaliero": 7
+       },
+       {
+        "data": "2022-04-28",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 63841,
+        "tamponi": 16877508,
+        "decessiTotali": 13305,
+        "decessiGiornaliero": 3
+       },
+       {
+        "data": "2022-04-29",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 64453,
+        "tamponi": 16907787,
+        "decessiTotali": 13311,
+        "decessiGiornaliero": 6
+       },
+       {
+        "data": "2022-04-30",
+        "denominazione_regione": "Piemonte",
+        "totalePositivi": 63689,
+        "tamponi": 16944999,
+        "decessiTotali": 13317,
+        "decessiGiornaliero": 6
+       }
+  ]
+}
